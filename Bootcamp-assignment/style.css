@@ -1,0 +1,24 @@
+/* Example styling of a h1 element */
+
+h1 {
+  color: #521979;
+  text-align: center;
+  font-family: Arial;
+}
+
+.paragraph {
+  text-align: center;
+}
+
+h5 {
+  text-decoration-style: solid;
+  color: rgb(3, 49, 47);
+  font-family: Arial;
+}
+
+a:link {
+  color: rgb(23, 26, 194);
+  background-color: transparent;
+  text-decoration: none;
+  font-weight: 100;
+}
